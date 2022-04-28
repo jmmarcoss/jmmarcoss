@@ -1,13 +1,16 @@
-# Hello, I'm João Marcos 👋 <br/>
+## Hello, I'm João Marcos 👋 <br/>
 
-<p>
+<p align="left">
   Currently studying Bachelor's Degree in Computer Engineering at IFPB-Campina Grande. 🎓 <br/>
   Machine Learning & Artificial Intelligence Enthusiast from Brazil.
 </p>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ### 📬 Get in Touch
-- LinkedIn: [linkedin.com/in/jmmarcosss](https://www.linkedin.com/in/jmmarcosss/)
-- E-mail: joao.amorim@academico.ifpb.edu.br
+
+<a href="https://www.linkedin.com/in/jmmarcosss/"> <img src="https://img.shields.io/badge/gmail%20-%23BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marcosjmorim@gmail.com" />
+<a href="https://www.linkedin.com/in/jmmarcosss/"> <img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+
 
 ### 📚 Languages
 <p>
