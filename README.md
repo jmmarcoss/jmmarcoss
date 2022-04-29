@@ -1,4 +1,4 @@
-## Hello, I'm João Marcos 👋 <br/>
+<h2> Hello, I'm João Marcos 👋 <br/> </h2>
 
 <p align="left">
   Currently studying Bachelor's Degree in Computer Engineering at IFPB-Campina Grande. 🎓 <br/>
@@ -8,7 +8,7 @@
 
 ### 📬 Get in Touch
 
-<a href="https://www.linkedin.com/in/jmmarcosss/"> <img src="https://img.shields.io/badge/gmail%20-%23BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marcosjmorim@gmail.com" />
+<a align="left" href="https://www.linkedin.com/in/jmmarcosss/"> <img src="https://img.shields.io/badge/gmail%20-%23BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marcosjmorim@gmail.com" />
 <a href="https://www.linkedin.com/in/jmmarcosss/"> <img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
@@ -22,8 +22,8 @@
 
 ### 🌱 Learning
 <p>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 </p>
 
@@ -31,7 +31,7 @@
 
 ### ⚙️ Resume
 <div align="center">
-  <a href="https://github.com/modestys">
+  <a href="https://github.com/binjmhu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=binjmhu&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binjmhu&layout=compact&langs_count=7&theme=vue"/>
 </div>
