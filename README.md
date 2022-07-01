@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **individual projects**.
 
-- 🌱 I’m currently learning **java**.
+- 🌱 I’m currently learning **Java**.
 
-- 👯 I’m looking to collaborate on **data science, back-end**.
+- 👯 I’m looking to collaborate on **Data Science, Back-End**.
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
