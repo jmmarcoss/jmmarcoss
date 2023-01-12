@@ -1,6 +1,5 @@
 <h3>Hi 👋, I'm João Marcos</h3> <hr>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binjmhu&layout=compact&langs_count=7&theme=vue" align="right"/>
 <p>Currently studying Bachelor's Degree in Computer Engineering at IFPB-Campina Grande.</p>
 
 - 🔭 I’m currently working on **individual projects**.
