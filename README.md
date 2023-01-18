@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **individual projects**.
 
-- 🌱 I’m currently learning **JavaScript**.
+- 🌱 I’m currently learning **JavaScript** and **Flutter**.
 
 - 👯 I’m looking to collaborate on **Back-End**.
 
