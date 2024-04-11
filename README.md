@@ -1,6 +1,4 @@
-<h3>Hi 👋, I'm João Marcos</h3> 
-<hr>
-<p>Currently studying Bachelor's Degree in Computer Engineering at IFPB-Campina Grande.</p>
+<p>My name is João Marcos. I am an undergraduate student at IFPB - Campus Campina Grande, Brazil.</p>
 
 - 🔭 I’m currently working on **individual projects**.
 
