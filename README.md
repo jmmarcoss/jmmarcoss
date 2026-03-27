@@ -1,9 +1,11 @@
-<p>My name is João Marcos.</p>
+<p>Hi, I'm João Marcos.</p>
 
 
-- Currently a undergraduate student in Computer Engineering  @ IFPB.
+- Computer Engineering graduate @ IFPB
 
-- I’m currently learning **Go** and **DevOps**.
+- I'm currently deepening my knowledge in **Swift**, **IoT**, **DevOps**, and **Go**.
+
+- Exploring homelab environments, distributed systems, and infrastructure. 
 
 
 <!-- <p>My technologies and tools</p>
